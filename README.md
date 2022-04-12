@@ -1,3 +1,5 @@
+Added confidence score to track ID
+
 SORT
 =====
 
